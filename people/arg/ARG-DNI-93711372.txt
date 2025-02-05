@@ -1,0 +1,60 @@
+# Información Personal
+- Nombre completo: Jairo Leonardo Olivera Sawka
+- Edad: 34
+- Ubicación: Cordoba, Argentina
+- Email: leonardo.sawka@gmail.completo
+- LinkedIn: https://www.linkedin.com/in/jairo-leonardo-olivera-sawka-623732b4/
+- GitHub: https://github.com/leosawka/
+- Portfolio: https://trabajando-en-el.com
+
+# Resumen Profesional
+Desarrollador Full-Stack proactivo y orientado a resultados, con amplia experiencia en frontend, backend y gestión de bases de datos. Especializado en React, Node.js y tecnologías relacionadas. Destacado por brindar guía técnica en proyectos para reducir riesgos y optimizar procesos.
+
+# Habilidades Técnicas
+- Lenguajes: JavaScript, Python, SQL, C# (básico), PL/SQL
+- Frameworks: React, Redux, Express, TailwindCSS, .NET (básico)
+- Bases de datos: PostgreSQL, MySQL, MongoDB (nivel académico)
+- Herramientas: Git, Figma, Trello, Miro, Azure, SharePoint
+- Metodologías: Agile (Scrum/Kanban), CI/CD
+
+# Experiencia Laboral
+## [PricewaterhouseCoopers (PwC)] - [Associate 2]
+[Oct 2022] – [Presente]
+- Mejoré una aplicación web en React-TypeScript para Bristol-Myers Squibb. Lideré la migración de una base de datos SharePoint a una plataforma escalable. Mantuve un sistema de soporte en Azure para NBCUniversal. Tecnologías: React, TypeScript, .NET, SharePoint, Azure, MySQL.
+
+## [OliTeam] - [Project Manager]
+[Ene 2020] – [Oct 2022]
+- Cofundador de la empresa, supervisando proyectos y mentorando desarrolladores. Introduje rutas de aprendizaje innovadoras para acelerar el desarrollo del equipo. Tecnologías: JavaScript, Node.js, Express, React, Redux, PostgreSQL, MongoDB.
+
+## [Halalá] - [Desarrollador]
+[Ene 2020] – [Feb 2021]
+- Diseñé y desarrollé una aplicación e-commerce mobile-first. Lideré el diseño UI/UX para mejorar la navegación y engagement. Tecnologías: JavaScript, Node.js, React, Redux, PostgreSQL.
+
+## [Tecnicina (EMPAZI S.A.)] - [Administrador de Base de Datos]
+[Oct 2013] – [Dic 2017]
+- Mantuve la precisión de la base de datos de comercio para equipamiento médico. Optimizé procesos de facturación, mejorando la fiabilidad operativa. Tecnologías: Magento, Odoo, Factusol, Python, JavaScript.
+
+# Proyectos Destacados
+## [Migración SharePoint a plataforma escalable (PwC – Bristol-Myers Squibb)]
+- Descripción: Migración y mejora de eficiencia en la gestión de datos.
+- Tecnologías: SharePoint, .NET, React, MySQL.
+- Link: Protegido por confidencialidad.
+
+## [Desarrollo de e-commerce para Halalá]
+- Descripción: Aplicación para conectar productores de materia prima con fabricantes.
+- Tecnologías: Node.js, React, Redux, PostgreSQL.
+- Link: Protegido por confidencialidad.
+
+# Educación
+## [U.T.N.]
+[Ingeniería en Sistemas] - [2022 - Presente]
+
+
+## [Instituto ISADA]
+[Bachiller en Producción de Bienes y Servicios] - [2012]
+
+# Idiomas
+- [Español]: [Nativo]
+- [Inglés]: [Alto (B2)]
+- [Japonés]: [A1 (Básico)]
+- [Polaco]: [A1 (Básico)]
